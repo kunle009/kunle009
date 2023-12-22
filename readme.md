@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Kunle</h1>
+<h1 align="center">Hi 👋, I'm Kunle, A Graduate Structural Engineer and Software Developer Enthusiast</h1>
