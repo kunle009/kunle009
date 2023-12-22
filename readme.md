@@ -34,7 +34,7 @@ Feel free to reach out to me through the following channels for collaborative pr
 - Email: [kunleyusuf858@outlook.com](mailto:github@kunleyusuf858@outlook.com)
 - LinkedIn: [Kunle Yusuf](https://www.linkedin.com/in/kunle-yusuf/)
 
-## 🚀 Check out my projects
+## 🚀 Projects
 
 Take a look at some of my projects below. I hope you find them interesting and informative:
 
