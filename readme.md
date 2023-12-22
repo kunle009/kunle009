@@ -33,3 +33,17 @@ Feel free to reach out to me through the following channels for collaborative pr
 
 - Email: [kunleyusuf858@outlook.com](mailto:github@kunleyusuf858@outlook.com)
 - LinkedIn: [Kunle Yusuf](https://www.linkedin.com/in/kunle-yusuf/)
+
+## 🚀 Check out my projects
+
+Take a look at some of my projects below. I hope you find them interesting and informative:
+
+<p float="left">
+    <a href="https://github.com/kunle009/FoundationDesign">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunle009&repo=FoundationDesign" width="75%" />
+    </a>
+</p>
+
+## 🎯 Looking for collaboration opportunities
+
+I am also on the lookout for software developer internship, or remote working oppurtunities within any construction tech startups in the AEC industry where I can contribute and learn on exciting products.
