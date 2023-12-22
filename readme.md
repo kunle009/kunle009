@@ -44,6 +44,6 @@ Take a look at some of my projects below. I hope you find them interesting and i
     </a>
 </p>
 
-## 🎯 Looking for collaboration opportunities
+🎯 Exploring Collaborative Opportunities
 
-I am also on the lookout for software developer internship, or remote working oppurtunities within any construction tech startups in the AEC industry where I can contribute and learn on exciting products.
+I am currently exploring opportunities for remote work, specifically in software development internships, within construction technology startups in the AEC industry. My aim is to contribute to exciting projects, learn, and grow in a dynamic environment. If you have a fitting opportunity, let's connect and explore possibilities together!
