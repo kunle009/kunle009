@@ -7,9 +7,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=synthwave" alt="kunle" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunle009&theme=synthwave" alt="kunle" /></p>
 
-## Current Projects
+## 💻 Ongoing Projects
 <p>
-        Some of my recent projects include:
+        Some of my recent ongoing projects include:
         <ul>
           <li>Developing a website to analyse and design combined pile caps</li>
           <li>Building the web app of my python package called FoundationDesign</li>
@@ -17,7 +17,7 @@
         </ul>
       </p>
 
-## 🌱 Current Interests
+## 📋 Current Interests
 
 I am a life long learner and I find it interesting doing research and solving problems
 
@@ -27,7 +27,7 @@ I am a life long learner and I find it interesting doing research and solving pr
 - Learning about computational design using grasshopper for structural engineering practice
 - Learning how to use common industry api's including TeklaOpenApi, Revit, CSI api and others.
 
-## 📫 Connect with me!
+## 🔗 Connect with me!
 
 Feel free to reach out to me through the following channels for collaborative projects:
 
