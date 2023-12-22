@@ -2,7 +2,7 @@
 <h2 align="center"> A Graduate Structural Engineer and Software Developer Enthusiast</h2>
 
  As a recent civil engineering graduate, I currently work as a graduate structural engineer, specializing in steel and concrete design for high-rise and industrial structures. My passion lies at the intersection of structural engineering and software development. I’ve always been a computer hobbyist, and I thrive on creating digital solutions to engineering challenges.
- 
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunle009&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="kunle" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=synthwave" alt="kunle" /></p>
@@ -20,7 +20,7 @@
 
 ## 📋 Current Interests
 
-I am a life long learner and I find it interesting doing research and solving problems, my interests includes:
+I am an enthusiastic lifelong learner with a keen interest in conducting research and solving complex problems. My areas of interest encompass:
 
 - Learning how to use FastApi to build robust structural engineering api's
 - Training LLM's on industry domain api's in other to improve their understanding of structural design.
