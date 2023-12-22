@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunle</h1>
 <h2 align="center"> A Graduate Structural Engineer and Software Developer Enthusiast</h2>
- I'm a recent graduate of civil engineering and I currently work as a graduate structural engineer where I focus on steel and concrete 
- design of high rise and industrial structures. I have always been a computer hobbyist and I am very comfortable working in the intersection between the two challenging fields of structural engineering and software development. I love providing digital solutions to engineering problems.
+ As a recent civil engineering graduate, I currently work as a graduate structural engineer, specializing in steel and concrete design for high-rise and industrial structures. My passion lies at the intersection of structural engineering and software development. I’ve always been a computer hobbyist, and I thrive on creating digital solutions to engineering challenges.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunle009&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="kunle" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=synthwave" alt="kunle" /></p>
