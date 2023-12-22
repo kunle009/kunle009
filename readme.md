@@ -40,7 +40,7 @@ Take a look at some of my projects below. I hope you find them interesting and i
 
 <p float="left">
     <a href="https://github.com/kunle009/FoundationDesign">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunle009&repo=FoundationDesign" width="75%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunle009&repo=FoundationDesign" width="50%" />
     </a>
 </p>
 
