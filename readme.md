@@ -11,7 +11,7 @@
 <p>
         Some of my recent projects include:
         <ul>
-          <li>Developing a Python script to analyse and design combined pile caps</li>
+          <li>Developing a website to analyse and design combined pile caps</li>
           <li>Building the web app of my python package called FoundationDesign</li>
           <li>Writing code solutions for custom analysis and design of various structural elements</li>
         </ul>
@@ -19,10 +19,17 @@
 
 ## 🌱 Current Interests
 
-I am a life long learner and i find it interesting doing research and solving problems
+I am a life long learner and I find it interesting doing research and solving problems
 
 - Learning how to use FastApi to build robust structural engineering api's
 - Training LLM's on industry domain api's in other to improve their understanding of structural design.
 - Using new platforms like Speckle to create custom saas based engineering solutions
 - Learning about computational design using grasshopper for structural engineering practice
 - Learning how to use common industry api's including TeklaOpenApi, Revit, CSI api and others.
+
+## 📫 Connect with me!
+
+Feel free to reach out to me through the following channels for collaborative projects:
+
+- Email: [kunleyusuf858@outlook.com](mailto:github@kunleyusuf858@outlook.com)
+- LinkedIn: [Kunle Yusuf](https://www.linkedin.com/in/kunle-yusuf/)
