@@ -36,14 +36,12 @@ Feel free to reach out to me through the following channels for collaborative pr
 
 ## 🚀 Projects
 
-Take a look at some of my projects below. I hope you find them interesting and informative:
-
 <p float="left">
     <a href="https://github.com/kunle009/FoundationDesign">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunle009&repo=FoundationDesign" width="50%" />
     </a>
 </p>
 
-🎯 Exploring Collaborative Opportunities
+## 🎯 Exploring Collaborative Opportunities
 
 I am currently exploring opportunities for remote work, specifically in software development internships, within construction technology startups in the AEC industry. My aim is to contribute to exciting projects, learn, and grow in a dynamic environment. If you have a fitting opportunity, let's connect and explore possibilities together!
