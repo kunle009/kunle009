@@ -19,7 +19,7 @@
 
 ## 📋 Current Interests
 
-I am a life long learner and I find it interesting doing research and solving problems
+I am a life long learner and I find it interesting doing research and solving problems, my interests includes:
 
 - Learning how to use FastApi to build robust structural engineering api's
 - Training LLM's on industry domain api's in other to improve their understanding of structural design.
