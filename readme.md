@@ -7,13 +7,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=synthwave" alt="kunle" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunle009&theme=synthwave" alt="kunle" /></p>
 
-## 🔭 What I'm currently working on
+## Current Projects
 <p>
         Some of my recent projects include:
         <ul>
-          <li>Developing a Python script to streamline the analysis and design of complex steel structures.</li>
-          <li>Building userscripts using JavaScript to enhance existing web calculators.</li>
-          <li>Experimenting with Docker to create reproducible environments for engineering simulations.</li>
-          <li>Developing web apps to aid with project metric tracking and report generation.</li>
+          <li>Developing a Python script to analyse and design combined pile caps</li>
+          <li>Building the web app of my python package called FoundationDesign</li>
+          <li>Writing code solutions for custom analysis and design of various structural elements</li>
         </ul>
       </p>
+
+## 🌱 Current Interests
+
+I am a life long learner and i find it interesting doing research and solving problems
+
+- Learning how to use FastApi to build robust structural engineering api's
+- Training LLM's on industry domain api's in other to improve their understanding of structural design.
+- Using new platforms like Speckle to create custom saas based engineering solutions
+- Learning about computational design using grasshopper for structural engineering practice
+- Learning how to use common industry api's including TeklaOpenApi, Revit, CSI api and others.
