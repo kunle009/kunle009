@@ -22,7 +22,7 @@
 
 I am an enthusiastic lifelong learner with a keen interest in conducting research and solving complex problems. My areas of interest encompass:
 
-- Learning how to use FastApi to build robust structural engineering api's
+- Learning build robust structural engineering api's
 - Training LLM's on industry domain api's in other to improve their understanding of structural design.
 - Using new platforms like Speckle to create custom saas based engineering solutions
 - Learning about computational design using grasshopper for structural engineering practice
