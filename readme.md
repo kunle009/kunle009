@@ -32,7 +32,7 @@ I am an enthusiastic lifelong learner with a keen interest in conducting researc
 
 Feel free to reach out to me through the following channels for collaborative projects:
 
-- Email: [kunleyusuf858@outlook.com](mailto:github@kunleyusuf858@outlook.com)
+- Email: [kunleyusuf858@outlook.com](mailto:kunleyusuf858@outlook.com)
 - LinkedIn: [Kunle Yusuf](https://www.linkedin.com/in/kunle-yusuf/)
 
 ## 🚀 Projects
