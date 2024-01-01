@@ -34,6 +34,7 @@ Feel free to reach out to me through the following channels for collaborative pr
 
 - Email: [kunleyusuf858@outlook.com](mailto:kunleyusuf858@outlook.com)
 - LinkedIn: [Kunle Yusuf](https://www.linkedin.com/in/kunle-yusuf/)
+<p align="left"> <a href="https://twitter.com/czarify" target="blank"><img src="https://img.shields.io/twitter/follow/czarify?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>
 
 ## 🚀 Projects
 
