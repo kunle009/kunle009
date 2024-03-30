@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunle</h1>
 <h2 align="center"> A Graduate Structural Engineer and Software Developer Enthusiast</h2>
 
- Hello! I'm a civil engineering graduate, currently working as a structural engineer with a specialization in steel and concrete design for high-rise and industrial structures. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering and software development. As a computer hobbyist, I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
+ Hello! I'm a civil engineering graduate, currently working as a structural engineer with a specialization in steel and concrete design for high-rise and industrial structures. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering and software development currently focused on backend development. As a computer hobbyist, I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
 
 
 
@@ -13,7 +13,7 @@
         Some of my recent ongoing projects include:
         <ul>
           <li>Developing a website to analyse and design combined pile caps</li>
-          <li>Building the web app of my python package called FoundationDesign</li>
+          <li>Building the web app of the design of various foundation types to be called FoundationCalcs</li>
           <li>Writing code solutions for custom analysis and design of various structural elements</li>
         </ul>
       </p>
@@ -24,8 +24,6 @@ I am an enthusiastic lifelong learner with a keen interest in conducting researc
 
 - Building robust structural engineering design api's.
 - Using new platforms like Speckle to create custom saas based engineering solutions
-- Learning about computational design using grasshopper for structural engineering practice
-- Learning how to use common industry api's including TeklaOpenApi, Revit, CSI api and others.
 
 ## 🔗 Connect with me!
 
