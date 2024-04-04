@@ -13,7 +13,7 @@
         Some of my recent ongoing projects include:
         <ul>
           <li>Developing a website to analyse and design combined pile caps</li>
-          <li>Building the web app of the design of various foundation types to be called FoundationCalcs</li>
+          <li>Building a comprehensive web app for the design of various foundation types to be called FoundationCalcs</li>
           <li>Writing code solutions for custom analysis and design of various structural elements</li>
         </ul>
       </p>
