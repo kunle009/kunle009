@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunle</h1>
 <h2 align="center"> A Graduate Structural Engineer and Software Developer Enthusiast</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunle009&label=Profile%20views&color=0e75b6&style=flat" alt="KunleYusuf" /> </p>
 
  Hello! I'm a civil engineering graduate, currently working as a structural engineer with a specialization in steel and concrete design for high-rise and industrial structures. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering and software development currently focused on backend development. As a computer hobbyist, I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
 
