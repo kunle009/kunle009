@@ -10,9 +10,7 @@
 <p>
         Some of my recent ongoing projects include:
         <ul>
-          <li>Developing a website to analyse and design combined pile caps</li>
           <li>Building a comprehensive web app for the design of various foundation types to be called FoundationCalcs</li>
-          <li>Writing code solutions for custom analysis and design of various structural elements</li>
         </ul>
       </p>
 
@@ -21,7 +19,7 @@
 I am an enthusiastic lifelong learner with a keen interest in conducting research and solving complex problems. My areas of interest encompass:
 
 - Building robust structural engineering design api's.
-- Using new platforms like Speckle to create custom saas based engineering solutions
+- Creating custom based engineering solutions utilizing existing structural engineering software api's
 
 ## 🔗 Connect with me!
 
