@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunle</h1>
-<h2 align="center"> A Graduate Structural Engineer and Software Developer Enthusiast</h2>
+<h2 align="center"> Structural Engineering || Software Development || Artificial Intelligence</h2>
 
- Hello! I'm a civil engineering graduate, currently working as a structural engineer with a specialization in steel and concrete design for high-rise and industrial structures. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering and software development currently focused on backend development. As a computer hobbyist, I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
+ Hello! I'm a civil engineering graduate, currently working as a structural engineer with a specialization in steel and concrete design for high-rise and industrial structures. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering, software development and artificial intelligence in solving future construction challenges. As a computer hobbyist, I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-kunles-projects-0dd1bd96.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=cobalt" alt="kunle" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunle009&theme=leafy&hide_border=true&border_radius=4.7&card_width=470" alt="GitHub Streak" /></a>
@@ -14,7 +14,7 @@
         <ul>
           <li>Building a comprehensive web app for the design of various foundation types to be called FoundationCalcs</li>
         </ul>
-      </p>
+    </p>
 
 ## 📋 Current Interests
 
@@ -22,6 +22,7 @@ I am an enthusiastic lifelong learner with a keen interest in conducting researc
 
 - Building robust structural engineering design api's.
 - Creating custom based engineering solutions utilizing existing structural engineering software api's
+- Computational modelling and Parametric design
 
 ## 🔗 Connect with me!
 
