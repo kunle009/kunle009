@@ -4,7 +4,7 @@
  Hello! I'm a civil engineering graduate, currently working as a structural engineer with a specialization in steel and concrete design for high-rise and industrial structures. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering and software development currently focused on backend development. As a computer hobbyist, I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=dracula" alt="kunle" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunle009&theme=leafy&hide_border=true&border_radius=4.7&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunle009&theme=leafy&hide_border=true&border_radius=4.7&card_width=450" alt="GitHub Streak" /></a>
 
 ## 💻 Ongoing Projects
 <p>
