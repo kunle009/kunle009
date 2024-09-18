@@ -28,9 +28,23 @@ I am an enthusiastic lifelong learner with a keen interest in conducting researc
 
 Feel free to reach out to me through the following channels for collaborative projects:
 
-- Email: [kunleyusuf858@outlook.com](mailto:kunleyusuf858@outlook.com)
-- LinkedIn: [Kunle Yusuf](https://www.linkedin.com/in/kunle-yusuf/)
-<p align="left"> <a href="https://twitter.com/_kunle009" target="blank"><img src="https://img.shields.io/twitter/follow/kunle?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>
+<p align='left'>
+  <a href="https://twitter.com/_kunle009">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/kunle009">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/kunle-yusuf/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:kunleyusuf858@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />            
+  </a>&nbsp;&nbsp;
+</p>
 
 ## 🚀 Projects
 
