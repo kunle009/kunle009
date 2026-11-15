@@ -59,11 +59,9 @@ Feel free to reach out to me through the following channels for collaborative pr
 
 ## 🚀 Projects
 
-<p float="left">
-    <a href="https://github.com/kunle009/FoundationDesign">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunle009&repo=FoundationDesign" width="50%" />
-    </a>
-</p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=kunle009&repo=kunle009%2FFoundationDesign&show_owner=true&disable_animations=false&theme=prussian)](https://github.com/kunle009/FoundationDesign)
+
 
 ## 🎯 Exploring Collaborative Opportunities
 
