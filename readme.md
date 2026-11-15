@@ -3,9 +3,9 @@
 
 Hello! I'm a civil engineering grad, currently working as a structural engineer. In my day job as a grad SE, I analyse and design various complex structures including high rise steel and concrete structures, industrial steel warehouses, bus terminals and some complex foundation systems. Beyond my engineering role, I'm deeply passionate about the fusion of structural engineering, software development and artificial intelligence in developing resilient engineering structures for sustainable societies. I find joy in crafting digital solutions to tackle engineering challenges. Join me on this journey at the intersection of innovation and construction! 
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=cobalt" alt="kunle" /></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kunle009&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=kunle009&show_icons=true&include_all_commits=true&theme=dracula)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunle009&theme=leafy&hide_border=true&border_radius=4.7&card_width=470" alt="GitHub Streak" /></a>
-<p><img  src="[https://github-stats-extended.vercel.app/api?username=kunle009/top-langs?username=kunle009](https://github-stats-extended.vercel.app/api?username=kunle009&show_icons=true&locale=en&layout=donut&langs_count=8&theme=dracula" alt="kunle" width="470"/></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kunle009&langs_count=5&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=kunle009&langs_count=5&theme=dracula)
 
 
 ## 💻 Ongoing Projects
