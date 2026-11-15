@@ -5,7 +5,7 @@ Hello! I'm a civil engineering grad, currently working as a structural engineer.
 
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=kunle009&show_icons=true&locale=en&theme=cobalt" alt="kunle" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunle009&theme=leafy&hide_border=true&border_radius=4.7&card_width=470" alt="GitHub Streak" /></a>
-<p><img  src="https://github-stats-extended.vercel.app/api?username=kunle009/top-langs?username=kunle009&show_icons=true&locale=en&layout=donut&langs_count=8&theme=dracula" alt="kunle" width="470"/></p>
+<p><img  src="[https://github-stats-extended.vercel.app/api?username=kunle009/top-langs?username=kunle009](https://github-stats-extended.vercel.app/api?username=kunle009&show_icons=true&locale=en&layout=donut&langs_count=8&theme=dracula" alt="kunle" width="470"/></p>
 
 
 ## 💻 Ongoing Projects
